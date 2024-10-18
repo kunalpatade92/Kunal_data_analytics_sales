@@ -1,4 +1,4 @@
-# Data Analysis to get Sales insights
+![image](https://github.com/user-attachments/assets/9979b950-4f85-4942-b1cd-479aa409c9fe)# Data Analysis to get Sales insights
 
 - [Setup MySQl database and PowerBI desktop on local ](#-STEP-1-:-Setup-MySql-database-and-PowerBI-destop-on-local)
 - [Create database and tables in MySql ](#-STEP2:Create-database-and-tables-in-MySql)
@@ -76,7 +76,7 @@ Click on close and apply button.
 
 ## STEP 7- Data Visualization - start building the dashboard.
 
-creating base measaure table.
+1. creating base measaure table.
 ![create BaseMeasure table](https://github.com/kunalpatade92/Kunal_data_analytics_sales/blob/main/src/base_mesaure.jpg)
 Add new measaues Revenuew ande Sales Qty to this table by clicking three dots on right hands side of BaseMeasure - > New Measure
 
@@ -85,6 +85,35 @@ a. Revenue - sum(sales_amount)
 b. Sales Qty- sum(sales_qty)
 
 ![New measures](https://github.com/kunalpatade92/Kunal_data_analytics_sales/blob/main/src/new_measures.jpg)
+
+2. Create charts.
+
+   a. create Revenue and Sales qty cards by drag and drop these two from BaseMeasure to plot area.
+![CARD chart](https://github.com/kunalpatade92/Kunal_data_analytics_sales/blob/main/src/Card_plot.jpg)
+
+   as per above screenshot, repeate same step for Sales Qty.
+
+   b. Horizant stack chart to show top 5 revenues by market.
+
+![Horizontal stack chart](https://github.com/kunalpatade92/Kunal_data_analytics_sales/blob/main/src/Horizontal_stack_chart_2.jpg)
+
+   c. SLicer for  year
+![ Slicer](https://github.com/kunalpatade92/Kunal_data_analytics_sales/blob/main/src/slicer_by_year.jpg)
+
+Similarly, we can create slicer for month.
+   
+   d. Line chart to show revenue over time.
+   ![Line chart](https://github.com/kunalpatade92/Kunal_data_analytics_sales/blob/main/src/Line_chart.jpg)
+
+   We can re-arrange charts on dashboard as per requirement and Dashboard is ready now to be published.
+
+   ![Dashboard](https://github.com/kunalpatade92/Kunal_data_analytics_sales/blob/main/src/Dashboard.jpg)
+
+   
+
+   
+
+
 
 
 
