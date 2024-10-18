@@ -6,6 +6,7 @@
     - [connect SQL from PowerBI ](#:connection-details)
     - [local connection details](#:connection-details)
     - [extract the data](#:extract-data)
+- [Data Modeling ](#STEP-4:-data modeling)
 - [TRANSFORM data in PowerBI ](#transform
   
 
@@ -38,7 +39,14 @@
  Load the data 
  ![Load the data](https://github.com/kunalpatade92/Kunal_data_analytics_sales/blob/main/src/Load_data.jpg)
 
- ## STEP 4: Transform the data
+ ## STEP-4:-data modeling
+
+ Power will automatically establish releation between few tables and we can analyse and establish relationship on missing links as per requirement.
+ In this case, we cna try to form STAR schema.
+
+ ![Data modeling](https://github.com/kunalpatade92/Kunal_data_analytics_sales/blob/main/src/Data_modeling.jpg)
+
+ ## STEP 5: Transform the data
 
  data cleaning including removing unwanted rows and columns 
 
