@@ -16,6 +16,13 @@
 ## STEP 2 :  Create database and tables in MySql
 
   Download and import database_prep_dump.sql file to database in MySQL workbench which will create required sales database along with tables
+
+## STEP 3 :  EXTRACT data in PowerBI from MySQL server.
+
+![Screenshot of step on how to connect sql from powerBI.](https://github.com/kunalpatade92/Kunal_data_analytics_sales/blob/main/src/get_data_from_mySql_db.jpg)
+
+
+
         
        
 
