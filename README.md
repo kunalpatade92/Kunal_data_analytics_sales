@@ -1,6 +1,15 @@
 # Data Analysis to get Sales insights
 
-## STEP 1  :  Setup MySql database and PowerBI destop on local
+- [Setup MySQl database and PowerBI desktop on local ](#-STEP-1-:-Setup-MySql-database-and-PowerBI-destop-on-local)
+- [Create database and tables in MySql ](#-STEP2:Create-database-and-tables-in-MySql)
+- [EXTRACT data in PowerBI from MySQL server.](#-STEP3:EXTRACT-data-in-PowerBI-from-MySQL-server)
+    - [connect SQL from PowerBI ](#:connection-details)
+    - [local connection details](#:connection-details)
+    - [extract the data](#:extract-data)
+- [TRANSFORM data in PowerBI ](#transform
+  
+
+## STEP 1: Setup MySql database and PowerBI destop on local
     1. Download free version of Mysql server installation from below link 
     
    [MySql community Download](https://dev.mysql.com/downloads/file/?id=534319)
@@ -28,6 +37,12 @@
 
  Load the data 
  ![Load the data](https://github.com/kunalpatade92/Kunal_data_analytics_sales/blob/main/src/Load_data.jpg)
+
+ ## STEP 4: Transform the data
+
+ data cleaning including removing unwanted rows and columns 
+
+ normalis vales. IN this example, converting values in same currency for all data.
 
 
 
