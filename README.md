@@ -1,7 +1,8 @@
-# Leetcode solutions in python
+# Data Analysis to get Sales insights
 
-## combine two tables
+## Setup mysql on local
+    1. Download free version of Mysql from below link [Mysql Community Download](https://dev.mysql.com/downloads/file/?id=534319)
+       
 
-|#|Title|solution|difficulty|
-|--|----|--------|----------|
-|175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/?lang=pythondata)|Python|Easy|
+
+
