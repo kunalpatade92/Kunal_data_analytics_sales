@@ -1,4 +1,8 @@
-![image](https://github.com/user-attachments/assets/9979b950-4f85-4942-b1cd-479aa409c9fe)# Data Analysis to get Sales insights
+# Data Analysis on Sales Data project
+
+## Perfrom Data analysis on sales data using MySQL, PowerBI
+
+
 
 - [Setup MySQl database and PowerBI desktop on local ](#-STEP-1-:-Setup-MySql-database-and-PowerBI-destop-on-local)
 - [Create database and tables in MySql ](#-STEP2:Create-database-and-tables-in-MySql)
@@ -10,6 +14,7 @@
 - [TRANSFORM data in PowerBI ](#STEP5:-transform)
 - [LOAD the data](#STEP-6:-Load-the-data-by-applying-transfromation)
 - [Data Visualization](#STEP-7:-Data-Visualization-start-building-the-dashboard.)
+- [Gather the Insights from dashboard](#STEP-8:-Gather-the-Insights.)
 
 
   
@@ -108,6 +113,14 @@ Similarly, we can create slicer for month.
    We can re-arrange charts on dashboard as per requirement and Dashboard is ready now to be published.
 
    ![Dashboard](https://github.com/kunalpatade92/Kunal_data_analytics_sales/blob/main/src/Dashboard.jpg)
+
+## STEP8: Gather the insights
+
+We can see from charts that revenue is declining ove year also we can see which market code or which region performing as per expectation or below expectation. Additionally, we cna see pain point area where focus is needed to overcome downside.
+
+We cna Publish this dashboard if we have work email address. We cna set the frequency of publish or frequency of data retreival or alerts on any particular value in dahsboard.
+
+We can also create mobile layover for this dashboard and publish accoridngly for stakeholders who want to refer in their mobile.
 
    
 
