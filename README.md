@@ -8,6 +8,10 @@
     - [extract the data](#:extract-data)
 - [Data Modeling ](#STEP-4:-data-modeling)
 - [TRANSFORM data in PowerBI ](#STEP5:-transform)
+- [LOAD the data](#STEP-6:-Load-the-data-by-applying-transfromation)
+- [Data Visualization](#STEP-7:-Data-Visualization-start-building-the-dashboard.)
+
+
   
 
 ## STEP 1: Setup MySql database and PowerBI destop on local
