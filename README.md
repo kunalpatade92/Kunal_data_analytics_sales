@@ -22,6 +22,14 @@
 ![Screenshot of step on how to connect sql from powerBI.](https://github.com/kunalpatade92/Kunal_data_analytics_sales/blob/main/src/get_data_from_mySql_db.jpg)
 
 
+ Connection details
+
+ ![Connection details](https://github.com/kunalpatade92/Kunal_data_analytics_sales/blob/main/src/connection_details.jpg)
+
+ Load the data 
+ ![Load the data](https://github.com/kunalpatade92/Kunal_data_analytics_sales/blob/main/src/Load_data.jpg)
+
+
 
         
        
